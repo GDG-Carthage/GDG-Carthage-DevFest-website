@@ -1,4 +1,4 @@
-Ukrainian Google Developers Groups are proud to announce the fifth annual GDG DevFest 2016 which is the biggest Google related event in Ukraine carefully crafted by GDG community! The event will take place on **9-10th of September** in **Lviv**.
+Tunisian Google Developers Groups are proud to announce the fifth annual GDG DevFest 2016 which is the biggest Google related event in Tunisia carefully crafted by GDG community! The event will take place on **21st of October** in **Tunis**.
 
 ### What to expect
 
@@ -7,11 +7,11 @@ Ukrainian Google Developers Groups are proud to announce the fifth annual GDG De
 * 3 parallel tracks dedicated to **Android**, **Web** & **Cloud** technologies.
 * **Expanded workshop area** where participants will have an opportunity to get some new practical skills from the best developers in Google-related technologies.
 
-So hurry up to book tickets to the Lviv, cultural capital of Ukraine as you’ll get a huge inspiration to create your cool projects after these days in the company of coders, hackers, geeks and just experts of our industry.
+So hurry up to book tickets to the Tunis, as you’ll get a huge inspiration to create your cool projects after these days in the company of coders, hackers, geeks and just experts of our industry.
 
 ### Festival organizers
 
-[Google Developer Group Lviv](http://lviv.gdg.org.ua/) (GDG Lviv) in conjunction with the Google development groups from all over Ukraine. GDG aims to share experiences and gain new knowledge. Each group - is open to all community of developers that create exciting projects and share their experience with passion about Google technologies.
+[Google Developer Group Carthage](http://gdgcarthage.org/) (GDG Carthage) in conjunction with the Google development groups from all over Ukraine. GDG aims to share experiences and gain new knowledge. Each group - is open to all community of developers that create exciting projects and share their experience with passion about Google technologies.
 
 By the way, it’s pleasure to announce that [call for papers](https://docs.google.com/forms/d/1rNGi2oPOAZ84mKkL5ccDYUEp93cO0RJ4GZZ-NTmtkYg/viewform) is opened! Apply and share with us your knowledge and experience.
 

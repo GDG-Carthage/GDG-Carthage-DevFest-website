@@ -7,8 +7,8 @@
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Carthage",
+    "twitter": "gdgcarthage"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "devfest-carthage-2017",
+    "domain": "devfest-carthage-2017.firebaseapp.com",
+    "database": "https://devfest-carthage-2017.firebaseio.com",
+    "api": "AIzaSyAioJ84uI5QcoKZJRpxZ7tijyMfiBsnYKE",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
