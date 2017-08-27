@@ -34,7 +34,7 @@ meta data in `index.html`
         content="The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts">
   <meta name="keywords"
         content="event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev">
-  <meta name="author" content="GDG Lviv">
+  <meta name="author" content="GDG Carthage">
 
   <title>GDG DevFest Ukraine 2016</title>
   ...
